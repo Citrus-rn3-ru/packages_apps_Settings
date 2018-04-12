@@ -51,7 +51,7 @@
     <string name="screenshot_shutter_sound_title">Звук скриншота</string>
 
     <!-- Unlink notification volume -->
-    <string name="link_volume_option_title">Связать громкость звонка и уведомлений<</string>
+    <string name="link_volume_option_title">Связать громкость звонка и уведомлений</string>
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Поворот экрана</string>
@@ -108,7 +108,7 @@
     <string name="app_ops_project_media">медиа-проект</string>
     <string name="app_ops_read_calendar">чтение календаря</string>
     <string name="app_ops_read_call_log">чтение журнала звонков</string>
-    <string name="app_ops_read_clipboard">чтение буфера обмена/string>
+    <string name="app_ops_read_clipboard">чтение буфера обмена</string>
     <string name="app_ops_read_contacts">чтение контактов</string>
     <string name="app_ops_read_mms">чтение MMS</string>
     <string name="app_ops_read_sms">чтение SMS</string>
@@ -188,7 +188,7 @@
    <!-- Face unlock -->
    <string name="face_auto_unlock_title">Быстрая разблокировка лицом</string>
    <string name="face_auto_unlock_summary">Авторазблокировка при использовании Фейсконтроля (Примечание: использование на свой страх и риск)</string>
-
+   
    <!-- Format string for fingerprint location message -->
    <string name="security_settings_fingerprint_enroll_find_sensor_message_cm">Найдите датчик отпечатков пальцев на <xliff:g id="sensor_location">%1$s</xliff:g> вашего телефона.</string>
 
